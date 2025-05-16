@@ -1,1 +1,11 @@
-{"used": true, "task_number": 11}
+{
+  "used": true,
+  "task_number": 4,
+  "done": 3,
+  "done_with_help": 0,
+  "total_time": 21,
+  "min_time": 3,
+  "max_time": 8,
+  "min_task": 2,
+  "max_task": 3
+}
