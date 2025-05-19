@@ -1,7 +1,31 @@
 {
   "used": true,
-  "task_number": 5,
-  "done": 3,
-  "done_with_help": 2,
-  "total_time": 0
+  "task_number": 22,
+  "done": 11,
+  "done_with_help": 10,
+  "total_time": 76,
+  "min_time": 0,
+  "max_time": 8,
+  "min_task": 10,
+  "max_task": 3,
+  "history": [
+    {
+      "date": "2025-05-15",
+      "done": 3,
+      "help": 1,
+      "seconds": 1200
+    },
+    {
+      "date": "2025-05-18",
+      "done": 2,
+      "help": 0,
+      "seconds": 800
+    },
+    {
+      "date": "2025-05-19",
+      "done": 6,
+      "help": 9,
+      "seconds": 29
+    }
+  ]
 }
